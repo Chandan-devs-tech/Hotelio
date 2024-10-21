@@ -1,6 +1,6 @@
 # 🏨 Hotelio
 
-Hotelio is a luxurious hotel booking platform built using React, Vite, and TailwindCSS. It provides a user-friendly interface for booking and managing hotel stays with a sleek design and seamless navigation.
+Hotelio is a luxurious hotel booking platform built using React, Vite, and TailwindCSS. It provi des a user-friendly interface for booking and managing hotel stays with a sleek design and seamless navigation.
 
 ## 🌐 Live Project
 
