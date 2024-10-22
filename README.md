@@ -52,7 +52,7 @@ To run this project locally, follow these steps:
 - 🏨 **Hotel Booking**: Easily browse and book hotel stays
 - 🔒 **Room Unlock**: Unlock your room with just a tap
 - 📅 **Calendar**: Check your booking schedule
-- 🗺️ **Navigation**: Easy navigation with interactive map features
+- 🗺️ **Navigation**: Easy navigation  with interactive map features
 
 ## 📁 Folder Structure
 
